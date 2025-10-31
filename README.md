@@ -4,8 +4,7 @@
 It is a personal fork of [Kiwi IRC](https://github.com/kiwiirc/kiwiirc), built and customized by **Veraco Labs**.
 
 > ⚠️ **Note:** ByteIRC is not finished.  
-> It is only available through its GitHub Pages preview for now.  
-> 🔗 [https://YOUR-USERNAME.github.io/ByteIRC](https://YOUR-USERNAME.github.io/ByteIRC)
+> It is only available through its GitHub Pages preview for now. 
 
 ---
 
