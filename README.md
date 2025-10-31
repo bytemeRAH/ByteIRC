@@ -1,7 +1,7 @@
 # 💾 ByteIRC
 
 **ByteIRC** is a web-based IRC client currently **under development**.  
-It is a personal fork of [Kiwi IRC](https://github.com/kiwiirc/kiwiirc), built and customized by **Veraco Labs**.
+It is a personal fork of [Kiwi IRC](https://github.com/kiwiirc/kiwiirc), built and customized by **byteme**.
 
 > ⚠️ **Note:** ByteIRC is not finished.  
 > It is only available through its GitHub Pages preview for now. 
