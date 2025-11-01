@@ -13,3 +13,4 @@ It is a personal fork of [Kiwi IRC](https://github.com/kiwiirc/kiwiirc), built a
 ByteIRC is in an experimental state.  
 Code, visuals, and functionality are being tested and updated frequently.  
 Please do not use it in production environments yet.
+ByteIRC will not be in development until November 14th (maybe) due to me breaking my computer charger
